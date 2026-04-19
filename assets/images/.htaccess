@@ -1,0 +1,11 @@
+# Mencegah eksekusi script di folder gambar
+<FilesMatch "\.(php|php4|php5|php7|phtml|pl|py|jsp|asp|sh|cgi)$">
+    Order Deny,Allow
+    Deny from all
+</FilesMatch>
+
+# Hanya izinkan akses ke file gambar
+<FilesMatch "\.(jpg|jpeg|png|gif|webp)$">
+    Order Allow,Deny
+    Allow from all
+</FilesMatch>
