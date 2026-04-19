@@ -36,6 +36,12 @@ Dark mode:
 Panel admin:
 <img width="1484" height="951" alt="image" src="https://github.com/user-attachments/assets/312bdd67-ce41-4be3-b8a4-ae9aea6fd865" />
 
+SEKILAS VIDEO PENAMPAKAN APLIKASI
+
+
+https://github.com/user-attachments/assets/53a6d1ba-002a-495c-92ec-d88fd08bbb86
+
+
 
 
 ## 📜 License
