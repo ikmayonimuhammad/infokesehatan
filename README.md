@@ -29,8 +29,18 @@ Tampilan utama:
 
 <img width="1484" height="951" alt="image" src="https://github.com/user-attachments/assets/ba9be01c-76e1-4351-9a43-e5c4fc964033" />
 
+
 Dark mode:
 <img width="1484" height="951" alt="image" src="https://github.com/user-attachments/assets/e51d181a-3834-469b-98a8-62759af41fb0" />
 
 Panel admin:
 <img width="1484" height="951" alt="image" src="https://github.com/user-attachments/assets/312bdd67-ce41-4be3-b8a4-ae9aea6fd865" />
+
+
+
+## 📜 License
+Project ini menggunakan lisensi MIT License.
+
+Copyright (c) 2026 Muhammad Ikmayoni
+
+Bebas digunakan, dimodifikasi, dan didistribusikan dengan tetap menyertakan credit.
